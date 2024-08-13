@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.aman{
+    width: 100%;
+    padding: 190px;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+
+
+}
+.aman img{
+    height: auto;
+    width: 450px;
+}
+.aman-text{
+    width: 550px;
+}
+.kgn{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.aman-text h1{
+    color: white;
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.aman-text h5
+{
+    color: white;
+    font-size: 25px;
+    text-transform: capitalize;
+margin-bottom: 25px;
+letter-spacing: 2px;
+}
+.aman-text p{
+    color: white;
+    letter-spacing: 2px;
+    line-height: 28px;
+    margin-bottom: 45px;
+    justify-content:right;
+
+}
+a{
+    color: white;
+    font-size: 17px;
+    border-radius: 34px;
+    border: 1px solid #ff0271;
+    padding: 15px 19px;
+    text-decoration: none;
+    background: none;
+}
+a:hover{
+ background:#ff0271 ;
+ border-color:#ff0271 ;
+ width: 100%;
+}
+.btn{
+    background:#ff0271;
+    border-color: #ff0271;
+}
+
+p{ 
+    text-align: justify;
+    font-weight: bold;
+    
+}
+table, th, td {
+    background-color: #009688 ;
+     border: 1px solid;
+     width: 50%;
+     color: aliceblue;
+   }
+   *{
+     margin: 0;
+     padding: 0;
+ }
+   th, td {
+     align-content: center;
+     padding: 5px;
+     text-align: left;
+     width: 50%;
+     padding-top: 10px;
+     padding-bottom: 20px;
+     padding-left: 30px;
+     padding-right: 40px;
+   }
+   body {
+     margin: 0;
+     padding: 0;
+     font-family: sans-serif; 
+     background-color:blueviolet;
+     background-size: cover;
+     background-position: center;
+ }
+ .update{
+     background-color: green;
+     color: white;
+     border: 0cap;
+     outline: none;
+     width: 100%;
+     padding: 7px;
+     border-radius: 80px;
+     border: NONE;
+     outline: none;
+     cursor: pointer;
+ }
+ .delete{
+     background-color: red;
+     color: white;
+     border: 0cap;
+     outline: none;
+     width: 100%;
+     padding: 7px;
+     border-radius: 80px;
+     border: NONE;
+     outline: none;
+     cursor: pointer;
+ }
+ h1{
+     font-size: 50px;
+     margin-top: 80px;
+ color: aliceblue;
+ }
+ 
